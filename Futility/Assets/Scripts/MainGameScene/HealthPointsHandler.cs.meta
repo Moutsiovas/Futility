@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c189e59eb94c5d64aa47a5be8a7e1b8f
+timeCreated: 1519321570
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - healthyBar: {fileID: 21300000, guid: 7a5a6584b075efd48acee43ac6d85de6, type: 3}
+  - damagedBar: {fileID: 21300000, guid: 76e6360d136e4f44b83d35ab1efefb94, type: 3}
+  - injuredBar: {fileID: 21300000, guid: d5d4f9bcfc59d0e429a7601f1c650a41, type: 3}
+  - criticalBar: {fileID: 21300000, guid: a13575ab2d5e98c41aa43ab009222922, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

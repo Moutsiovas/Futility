@@ -1,0 +1,38 @@
+fileFormatVersion: 2
+guid: 14f422db58411a245aad07579a0cb32f
+timeCreated: 1519924842
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - auntMain: {fileID: 21300000, guid: 99054da17d799dc43b2142563e23b4b7, type: 3}
+  - aunt2: {fileID: 21300000, guid: ee4df3892dc6ce2408e917c1d96fc2c2, type: 3}
+  - aunt3: {fileID: 21300000, guid: 628f770c90bfc0c4897722a1d3c660fa, type: 3}
+  - bossMain: {fileID: 21300000, guid: 9d89a62c195680b42b0820f7943016e0, type: 3}
+  - boss2: {fileID: 21300000, guid: 118ecf792ddc9724e9b7801e25437341, type: 3}
+  - brotherMain: {fileID: 21300000, guid: 91e35aee35bf8b6409533d77279f2de3, type: 3}
+  - brother2: {fileID: 21300000, guid: f4c9cae947e1da141af321fb78b2a775, type: 3}
+  - brother3: {fileID: 21300000, guid: 6f7b80ada53355f41ae9949e85f304fe, type: 3}
+  - cousinMain: {fileID: 21300000, guid: ca152d9d7d846414daf2b542f03ccfa4, type: 3}
+  - cousin2: {fileID: 21300000, guid: 55cd72ce9fdfd3347a233dac61e78a4f, type: 3}
+  - cousin3: {fileID: 21300000, guid: d054555e75fe9ed41aff14171b2210e8, type: 3}
+  - doctorMain: {fileID: 21300000, guid: cd24614e65c9cbb4a8b89c24fec7c4c7, type: 3}
+  - doctor2: {fileID: 21300000, guid: 5ea89f808f6d9b145811e46e69d7335a, type: 3}
+  - doctor3: {fileID: 21300000, guid: e373a385ff7a4df479726aa5641bcf96, type: 3}
+  - fatherMain: {fileID: 21300000, guid: d56e35873b6a0264c8241a88262d8751, type: 3}
+  - friendMain: {fileID: 21300000, guid: 9bd72e07b8c4c0c44ab361c243e8ef05, type: 3}
+  - friend2: {fileID: 21300000, guid: 3d6a624d696d27e4e9493e67e1780c89, type: 3}
+  - friend3: {fileID: 21300000, guid: fd804c38fc3ac1b43a04d852b981d700, type: 3}
+  - motherMain: {fileID: 21300000, guid: 23595a6076e8fd34c9dfc87ea031b213, type: 3}
+  - mother2: {fileID: 21300000, guid: 86be604e1ac35714581952bd14c23366, type: 3}
+  - mother3: {fileID: 21300000, guid: 1631f607a5b8ba04abf76220b238a3ac, type: 3}
+  - psychiatristMain: {fileID: 21300000, guid: 635d54ea822504046ba9f56336081b34, type: 3}
+  - psychiatrist2: {fileID: 21300000, guid: 34b8d8822260d6a4cb5c6619ad6f38e7, type: 3}
+  - psychiatrist3: {fileID: 21300000, guid: e315abfd0bfac544bb24e88bf0abfc04, type: 3}
+  - uncleMain: {fileID: 21300000, guid: 28f03f03aa7ed5643b333fff9fac2f84, type: 3}
+  - uncle2: {fileID: 21300000, guid: fc273b061d287924e97edf3adb0b09e9, type: 3}
+  executionOrder: 20
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
