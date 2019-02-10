@@ -1,3 +1,3 @@
 # Futility
 
-Futility is a choices-text game , developed for Google Play Store , made in Unity.
+Futility is an open source choices-text game , developed for Android, made in Unity.
